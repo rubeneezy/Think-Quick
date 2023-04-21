@@ -6,6 +6,6 @@
     "alexa-sdk": "^1.0.25",
     "ask-sdk": "^2.6.0",
     "ask-sdk-v1adapter": "^2.6.0",
-    "node-lambda": "^0.14.0"
+    "node-lambda": "^1.2.0"
   }
 }
